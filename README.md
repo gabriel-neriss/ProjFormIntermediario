@@ -1,4 +1,4 @@
-# 🧑‍💻 Sobre o projeto ! Stage 3 
+# 🧑‍💻 Sobre o projeto ! 
 
 Nesse projeto aprendemos sobre formulários no HTML e vários tipos de inputs, além da estilização através do CSS.
 
