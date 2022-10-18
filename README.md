@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre o projeto ! 
 
-Nesse projeto aprendemos sobre formulários no HTML e vários tipos de inputs, além da estilização através do CSS.
+Projeto de formulários com HTML e vários tipos de inputs, além da estilização através do CSS.
 
 ## 💻 Demonstração
 
